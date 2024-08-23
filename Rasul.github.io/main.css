@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+section.one {
+    color: blue;
+}
+
+section.two {
+    color: green;
+}
+
+ul {
+    font-style: oblique;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+p {
+    width: 500px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
